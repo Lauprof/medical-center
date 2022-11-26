@@ -114,6 +114,9 @@ text-shadow: 1px 1px blue;
 
 }
 @media(max-width:768px){
+	.dropdown-content{
+		width:40%;
+	}
 	.dropdown-content a:nth-child(odd){
 	padding:4px;
 	}
