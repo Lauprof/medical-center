@@ -1,3 +1,14 @@
+*{
+
+	margin: 0px 0px;
+	/*color: floralwhite;*/
+	box-sizing: border-box;
+ 
+}
+
+
+
+
 .dropbtn{
 	font-size: 16px;
 	cursor: pointer;
